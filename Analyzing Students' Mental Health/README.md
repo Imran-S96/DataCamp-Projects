@@ -1,6 +1,5 @@
 # **Analyzing Students' Mental Health**
 
-![alt text](images\mentalhealth-1.jpg)
 ![alt text](images/mentalhealth-1.jpg)
 
 Does going to university in a different country affect your mental health? A Japanese international university surveyed its students in 2018 and published a study the following year that was approved by several ethical and regulatory boards.
@@ -13,7 +12,7 @@ Here is a data description of the columns you may find helpful.
 
 ## students Table
 
-![alt text](images\Table.png)
+![alt text](images/Table.png)
 
 ## Question
 
@@ -42,4 +41,4 @@ ORDER BY "stay" DESC;
 
 ## Final Query Table 
 
-![alt text](images\result.png)
+![alt text](images/result.png)
